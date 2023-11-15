@@ -2,3 +2,4 @@
 
 ## Gravando mudanças no repositorio
 * Git Push
+* Git Pull
